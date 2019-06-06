@@ -81,4 +81,8 @@ public class Festa {
     public void setLongitude(String longitude) {
         this.longitude = longitude;
     }
+
+    public void tt(){
+    	
+    }
 }
